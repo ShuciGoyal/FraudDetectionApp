@@ -1,4 +1,3 @@
-```markdown
 # FraudDetectionApp
 
 ## Description
@@ -49,4 +48,3 @@ mvn test
 
 ## License
 Specify the license under which the project is distributed.
-```
